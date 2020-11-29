@@ -1,2 +1,2 @@
 # matlab-robot-arm-line-model
-This project was made as group. I dont take any credit for overall procject. All rights belong to their respective owners :D
+This project was made as group. I dont take any credit for overall project. The main script will be revized to avoid bugs since not all the gcodes work without error.
